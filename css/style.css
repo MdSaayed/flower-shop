@@ -282,7 +282,7 @@ header{
     padding: 100px 0px;
     width: 100%;
     border-radius: 5px;
-    background-image: url('/images/newslatterbg.png');
+    background-image: url('./images/newslatterbg.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
